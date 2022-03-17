@@ -1,0 +1,15 @@
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/bin/Debug/net6.0/lab2_task1
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/bin/Debug/net6.0/lab2_task1.deps.json
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/bin/Debug/net6.0/lab2_task1.runtimeconfig.json
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/bin/Debug/net6.0/lab2_task1.dll
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/bin/Debug/net6.0/lab2_task1.pdb
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.csproj.AssemblyReference.cache
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.AssemblyInfoInputs.cache
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.AssemblyInfo.cs
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.csproj.CoreCompileInputs.cache
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.dll
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/refint/lab2_task1.dll
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.pdb
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/lab2_task1.genruntimeconfig.cache
+/Users/annayedka/RiderProjects/lab_2/lab2_task1/obj/Debug/net6.0/ref/lab2_task1.dll
